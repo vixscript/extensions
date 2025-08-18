@@ -1,12 +1,7 @@
 {
-  "math_ext": {
-    "url": "https://yourserver.com/extensions/math_ext.zip",
+  "math": {
+    "url": "https://vixscript.github.io/extensions/extensions/math.zip",
     "version": "1.0.0",
-    "description": "basic math functions like square, add3, and PI"
+    "description": "Basic and Advanced Math Functions"
   },
-  "cool_io": {
-    "url": "https://yourserver.com/extensions/cool_io.zip",
-    "version": "0.1.2",
-    "description": "extra I/O functions for vixScript"
-  }
 }
