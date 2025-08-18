@@ -1,2 +1,2 @@
-# vixpiprepo
-repo for vixpip
+# Extensions
+Extensions for vixscript
