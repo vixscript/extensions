@@ -1,12 +1,17 @@
 {
   "math_ext": {
-    "url": "https://vixscript.github.io/extensions/extensions/math.zip",
+    "url": "https://vixscript.github.io/extensions/extensions/math_ext.zip",
     "version": "1.0.0",
-    "description": "Basic and Advanced Math Functions"
+    "description": "Basic and Advanced Math Functions using vixScript"
   },
   "python_ext": {
-    "url": "https://vixscript.github.io/extensions/extensions/math.zip",
+    "url": "https://vixscript.github.io/extensions/extensions/python_ext.zip",
     "version": "1.0.0",
-    "description": "Basic and Advanced Math Functions"
+    "description": "Interact with Python using vixScript"
+  },
+  "keyboard_ext": {
+    "url": "https://vixscript.github.io/extensions/extensions/keyboard_ext.zip",
+    "version": "1.0.0",
+    "description": "Simulate keyboard interactions with vixScript"
   }
 }
