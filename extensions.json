@@ -1,5 +1,10 @@
 {
-  "math": {
+  "math_ext": {
+    "url": "https://vixscript.github.io/extensions/extensions/math.zip",
+    "version": "1.0.0",
+    "description": "Basic and Advanced Math Functions"
+  },
+  "python_ext": {
     "url": "https://vixscript.github.io/extensions/extensions/math.zip",
     "version": "1.0.0",
     "description": "Basic and Advanced Math Functions"
